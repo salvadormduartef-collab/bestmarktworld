@@ -2,11 +2,11 @@
   "mission_id": "H003",
   "status": "completed",
   "current_step": "",
-  "started_at": "2026-07-20T06:11:56.323Z",
+  "started_at": "2026-07-20T06:22:05.197Z",
   "completed_steps": [
     "step_1",
     "step_2",
     "step_3"
   ],
-  "completed_at": "2026-07-20T06:11:59.161Z"
+  "completed_at": "2026-07-20T06:22:07.843Z"
 }
